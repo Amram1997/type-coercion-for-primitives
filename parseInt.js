@@ -1,4 +1,4 @@
-
+// Implemant parseInt() method
 
 function my_parseInt(string){
     let index = "";
